@@ -1,4 +1,4 @@
-from redis import Redis()
+from redis import Redis
 
 redis = Redis()
 redis.hset('bar', '0:00', '5')
