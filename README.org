@@ -1,3 +1,8 @@
 * Sample Source Codes
 - Redis
+  - redis-string (Python)
+  - redis-list (Python)
+  - redis-set (Python)
+  - redis-sortedset (Python)
+  - redis-hash (Python)
   - Sorted Sets Ranking (Python)
